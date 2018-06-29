@@ -1,0 +1,16 @@
+.App {
+  margin-top: 2em;
+}
+
+
+.App-count-display {
+  padding: 5px;
+  background: lightsalmon; 
+  font-size: 24px;
+  color: lightcyan;
+}
+
+.error {
+  font-size: 12px;
+  color: red;
+}

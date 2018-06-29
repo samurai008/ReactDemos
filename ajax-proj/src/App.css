@@ -1,0 +1,12 @@
+.App {
+}
+
+.App table, .App tr td {
+  border-bottom: 1px solid black;
+}
+
+.App table tr {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid yellow;
+}
